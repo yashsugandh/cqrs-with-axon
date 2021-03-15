@@ -1,1 +1,1 @@
-# csqr-with-axon
+# cqrs-with-axon
